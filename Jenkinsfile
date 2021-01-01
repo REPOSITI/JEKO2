@@ -21,7 +21,8 @@ pipeline {
                             string(
                                 
                                 name: 'SP', 
-                                trim: true
+                                trim: true,
+                                defaultValue: 'bbb'
                             )
                         ])
                     ])
