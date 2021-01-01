@@ -26,7 +26,7 @@ pipeline {
                         ])
                     ])
                 }
-                sh label: '', script: 'mkdir /tmp/LLLLuuuooooouL66666'}
+                sh label: '', script: 'mkdir /tmp/LLLLKuuuooooouL66666'}
 
             }
         }
